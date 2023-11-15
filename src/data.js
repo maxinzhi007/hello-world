@@ -560,7 +560,7 @@ export const menu = [
   export const singleUser = {
     id: 1,
     img: '/mage.jpg',
-    title: "Nak Lin Tun",
+    title: "Nay Lin Tun",
     info: {
       username: "Nay Lin Tun",
       fullname: "Nay Lin Tun",
